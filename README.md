@@ -10,10 +10,10 @@
 QQ群：866828944
 
 ## 演示Demo
-详见 [huankemao-php](https://gitee.com/huankemao/huankemao-php)
+详见 [huankemao-php](https://github.com/huankemao/huankemao-php)
 
 #### 安装部署
-将本仓库下的所有文件拷贝至[huankemao-php](https://gitee.com/huankemao/huankemao-php)的/public/article-preview路径下
+将本仓库下的所有文件拷贝至[huankemao-php](https://github.com/huankemao/huankemao-php)的/public/article-preview路径下
 
 ## 文档
 - 用户手册 [https://huankemao.com/docs/index.html](https://huankemao.com/docs/index.html)
